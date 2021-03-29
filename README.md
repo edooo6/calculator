@@ -1,1 +1,1 @@
-# calculator
+# Developed a calculator using tkinter
